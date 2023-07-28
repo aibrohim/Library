@@ -1,0 +1,5 @@
+Id;Img;Title;ISBN;PagesCount;IsAvailable;PublishedDate;ShelfNum;PublisherId;PublisherName;StudentId;StudentFirstName;StudentLastName;RoomId;RoomName;CategoryId;CategoryName;TotalRowsCount
+7;;Grokking algorithms;9781638353348;256;TRUE;12/12/2015 00:00:00;153;;;;;;;;;;0
+8;;Atomic Habits;9783442178582;320;TRUE;10/16/2018 00:00:00;34;;;;;;;;;;0
+9;;Why We Sleep;9780141983776;368;TRUE;09/28/2017 00:00:00;12;;;;;;;;;;
+10;;Thinking, Fast and Slow;9780141918921;512;TRUE;11/03/2011 00:00:00;153;;;;;;;;;;

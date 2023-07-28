@@ -1,0 +1,94 @@
+{
+  "Books": [
+    {
+      "Id": 7,
+      "Title": "Grokking algorithms",
+      "ISBN": "9781638353348",
+      "PagesCount": 256,
+      "PublishedDate": "2002-12-12",
+      "ShelfNum": "153",
+      "IsAvailable": 0
+    },
+    {
+      "Id": 8,
+      "Title": "Atomic Habits",
+      "ISBN": "9783442178582",
+      "PagesCount": 123,
+      "PublishedDate": "2016-11-02",
+      "ShelfNum": "34",
+      "IsAvailable": 0
+    },
+    {
+      "Id": 9,
+      "Title": "Harry Potter",
+      "ISBN": "9780807286005",
+      "PagesCount": 500,
+      "PublishedDate": "2023-04-04",
+      "ShelfNum": "2",
+      "IsAvailable": 0
+    },
+    {
+      "Id": 10,
+      "Title": "Rich Dad Poor Dad",
+      "ISBN": "9780446677455",
+      "PagesCount": 350,
+      "PublishedDate": "2023-04-16",
+      "ShelfNum": "3",
+      "IsAvailable": 0
+    },
+    {
+      "Id": 11,
+      "Title": "Letter To My Daughter",
+      "ISBN": "9780812980035",
+      "PagesCount": 100,
+      "PublishedDate": "2023-03-27",
+      "ShelfNum": "1",
+      "IsAvailable": 0
+    },
+    {
+      "Id": 12,
+      "Title": "Cashflow Quadrant",
+      "ISBN": "9780446614078",
+      "PagesCount": 250,
+      "PublishedDate": "2023-04-09",
+      "ShelfNum": "2",
+      "IsAvailable": 0
+    },
+    {
+      "Id": 14,
+      "Title": "The Great Gatsby",
+      "ISBN": "9780333791035",
+      "PagesCount": 600,
+      "PublishedDate": "2023-04-13",
+      "ShelfNum": "2",
+      "IsAvailable": 1
+    },
+    {
+      "Id": 16,
+      "Title": "The Lord Of Rings",
+      "ISBN": "9788845292613",
+      "PagesCount": 1000,
+      "PublishedDate": "2023-04-25",
+      "ShelfNum": "1",
+      "IsAvailable": 0
+    },
+    {
+      "Id": 18,
+      "Title": "The Lion",
+      "ISBN": "9781792327674",
+      "PagesCount": 800,
+      "PublishedDate": "2023-04-23",
+      "ShelfNum": "2",
+      "IsAvailable": 0
+    },
+    {
+      "Id": 19,
+      "Title": "Slaughterhouse",
+      "ISBN": "9780224618014",
+      "PagesCount": 453,
+      "PublishedDate": "2023-04-19",
+      "ShelfNum": "2",
+      "IsAvailable": 1
+    }
+  ]
+}

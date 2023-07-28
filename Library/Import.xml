@@ -1,0 +1,92 @@
+<Books>
+	<BookRow>
+		<Id>7</Id>
+		<Title>Grokking algorithms</Title>
+		<ISBN>9781638353348</ISBN>
+		<PagesCount>256</PagesCount>
+		<PublishedDate>2002-12-12</PublishedDate>
+		<ShelfNum>153</ShelfNum>
+		<IsAvailable>0</IsAvailable>
+	</BookRow>
+	<BookRow>
+		<Id>8</Id>
+		<Title>Atomic Habits</Title>
+		<ISBN>9783442178582</ISBN>
+		<PagesCount>123</PagesCount>
+		<PublishedDate>2016-11-02</PublishedDate>
+		<ShelfNum>34</ShelfNum>
+		<IsAvailable>0</IsAvailable>
+	</BookRow>
+	<BookRow>
+		<Id>9</Id>
+		<Title>Harry Potter</Title>
+		<ISBN>9780807286005</ISBN>
+		<PagesCount>500</PagesCount>
+		<PublishedDate>2023-04-04</PublishedDate>
+		<ShelfNum>2</ShelfNum>
+		<IsAvailable>0</IsAvailable>
+	</BookRow>
+	<BookRow>
+		<Id>10</Id>
+		<Title>Rich Dad Poor Dad</Title>
+		<ISBN>9780446677455</ISBN>
+		<PagesCount>350</PagesCount>
+		<PublishedDate>2023-04-16</PublishedDate>
+		<ShelfNum>3</ShelfNum>
+		<IsAvailable>0</IsAvailable>
+	</BookRow>
+	<BookRow>
+		<Id>11</Id>
+		<Title>Letter To My Daughter </Title>
+		<ISBN>9780812980035 </ISBN>
+		<PagesCount>100</PagesCount>
+		<PublishedDate>2023-03-27</PublishedDate>
+		<ShelfNum>1</ShelfNum>
+		<IsAvailable>0</IsAvailable>
+	</BookRow>
+	<BookRow>
+		<Id>12</Id>
+		<Title>Cashflow Quadrant </Title>
+		<ISBN>9780446614078 </ISBN>
+		<PagesCount>250</PagesCount>
+		<PublishedDate>2023-04-09</PublishedDate>
+		<ShelfNum>2</ShelfNum>
+		<IsAvailable>0</IsAvailable>
+	</BookRow>
+	<BookRow>
+		<Id>14</Id>
+		<Title>The Great Gatsby</Title>
+		<ISBN>9780333791035</ISBN>
+		<PagesCount>600</PagesCount>
+		<PublishedDate>2023-04-13</PublishedDate>
+		<ShelfNum>2</ShelfNum>
+		<IsAvailable>1</IsAvailable>
+	</BookRow>
+	<BookRow>
+		<Id>16</Id>
+		<Title>The Lord Of Rings </Title>
+		<ISBN>9788845292613 </ISBN>
+		<PagesCount>1000</PagesCount>
+		<PublishedDate>2023-04-25</PublishedDate>
+		<ShelfNum>1</ShelfNum>
+		<IsAvailable>0</IsAvailable>
+	</BookRow>
+	<BookRow>
+		<Id>18</Id>
+		<Title>The Lion </Title>
+		<ISBN>9781792327674 </ISBN>
+		<PagesCount>800</PagesCount>
+		<PublishedDate>2023-04-23</PublishedDate>
+		<ShelfNum>2</ShelfNum>
+		<IsAvailable>0</IsAvailable>
+	</BookRow>
+	<BookRow>
+		<Id>19</Id>
+		<Title>Slaughterhouse </Title>
+		<ISBN>9780224618014 </ISBN>
+		<PagesCount>453</PagesCount>
+		<PublishedDate>2023-04-19</PublishedDa>
+    <ShelfNum>2</ShelfNum>
+    <IsAvailable>1</IsAvailable>
+  </BookRow>
+</Books>
